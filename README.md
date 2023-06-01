@@ -1,6 +1,7 @@
-[![MasterHead]([https://giphy.com/gifs/software-hardware-hardwaresoftware-u1WhXLjwgcXpHJBMRM](https://ecommerce-platforms.com/wp-content/uploads/2018/08/devstory_dribbble_01-1549919968.gif))](https://rishavchanda.io)
+   <img src="https://www.wingstechsolutions.com/wp-content/uploads/2022/03/full-stack-development.gif" style="width: 100vw; height: auto; object-fit: cover;" />
 <h1 align="center">Hi 👋, I'm Pavan Bangera</h1>
 <h3 align="center">A passionate full-stack developer from India</h3>
+<hr>
 
 Hello! Welcome to my GitHub profile. I am passionate about web development and have expertise in a range of technologies, including HTML, CSS, JavaScript, ReactJS, Node.js, Express, and PHP. Here are some key points about my skills and projects:<br><br>Throughout my projects, I have honed my skills in front-end development, back-end development, and full-stack development. I am continuously learning and exploring new technologies to stay up-to-date with the latest trends in web development.<br><br>Please feel free to explore my repositories to see examples of my work. I am open to collaboration and eager to contribute to meaningful projects. Let's connect and build amazing web applications together!
 
