@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://raw.githubusercontent.com/pavanbangera/pavanbangera/refs/heads/master/banner.png" width="100%" alt="Pavan Bangera Cinematic Banner" />
+  <img src="https://raw.githubusercontent.com/pavanbangera/pavanbangera/refs/heads/master/banner.webp" width="100%" alt="Pavan Bangera Cinematic Banner" />
 
 <img src="https://readme-typing-svg.herokuapp.com?font=SF+Pro+Display&weight=600&size=26&pause=800&color=00F5D4&center=true&vCenter=true&width=700&lines=Designing+Scalable+Web+Applications;Building+Real-Time+Experiences;Turning+Ideas+Into+Products;Obsessed+With+Clean+UI+%26+Performance" />
 
